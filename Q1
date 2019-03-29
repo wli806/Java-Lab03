@@ -1,4 +1,3 @@
-
 public static double averagePositive(ArrayList<Integer> values){
 	double total = 0.0;
 	int count = 0;
